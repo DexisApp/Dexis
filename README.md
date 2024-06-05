@@ -2,7 +2,7 @@
 
 <h1 style="border-bottom: none">
     <b><a href="https://Dexis.app">Dexis</a></b><br />
-    Write, Draw and Plan All at Once
+    We are the next generation social network in the WEB3.
     <br>
 </h1>
 <a href="https://Dexis.app/download">
@@ -10,8 +10,8 @@
 </a>
 <br/>
 <p align="center">
-  A privacy-focused, local-first, open-source, and ready-to-use alternative for Notion & Miro. <br />
-  One hyper-fused platform for wildly creative minds.
+  A privacy-focused, local-first, open-source, and ready-to-use. <br />
+  🔔Everything's easier with Dexis
 </p>
 
 <br/>
@@ -19,24 +19,24 @@
 <br/>
 
 <div align="center">
-    <a href="https://affine.pro">Home Page</a> |
-    <a href="https://x.com/DexisAI">Twitter</a> |
-    <a href="https://Dexis.app/">Telegram</a> |
-    <a href="https://medium.com/@DexisAI">Medium</a> |
-    <a href="https://Dexis.app/">Documentation</a>
+    <a href="https://dexis.app/">Home Page</a> |
+    <a href="https://x.com/DexisApp">Twitter</a> |
+    <a href="https://dexis-app.gitbook.io/dexis-app/">Whitepaper</a> |
+    <a href="https://dappradar.com/dapp/dexis-app">Dappradar</a> |
+    <a href="https://find-and-update.company-information.service.gov.uk/company/14252701">Dexis LTD</a>
 </div>
 <br/>
 
-[![Releases](https://img.shields.io/github/downloads/toeverything/AFFiNE/total)](https://github.com/toeverything/AFFiNE/releases/latest)
-[![All Contributors][all-contributors-badge]](#contributors)
-[![TypeScript-version-icon]](https://www.typescriptlang.org/)
-[![Rust-version-icon]](https://www.rust-lang.org/)
+[![Releases](https://img.shields.io/github/downloads/toeverything/AFFiNE/total)]()
+[![All Contributors][all-contributors-badge]]()
+[![TypeScript-version-icon]]()
+[![Rust-version-icon]]()
 
 </div>
 
 <br />
 <div align="center">
-<em>Docs, canvas and tables are hyper-merged with Dexis.</em>
+<em>We are the next-generation social network that provides comfort, security and suitable for the requirements of any user in the Web3..</em>
 </div>
 <br />
 
@@ -49,39 +49,20 @@ Star us, and you will receive all release notifications from GitHub without any 
 
 ## What is Dexis
 
-Dexis is an open-source, all-in-one workspace and an operating system for all the building blocks that assemble your knowledge base and much more -- wiki, knowledge management, presentation and digital assets. It's a better alternative to Notion and Miro.
+In the rapidly evolving digital age, the intersection of blockchain technology and social networking has opened new avenues for decentralized applications, offering unprecedented security, transparency, and user empowerment. The Dexis App emerges as a pioneering platform within this domain, built on the robust Blast blockchain. This whitepaper introduces the Dexis, detailing its innovative approach to social networking through decentralized technologies and highlighting its potential to redefine online interactions.
 
-## Features
+## The Need for Decentralization in Social Networking
 
-**A true canvas for blocks in any form. Docs and whiteboard are now fully merged.**
+**Traditional social networks are predominantly centralized, which often leads to significant concerns over privacy, data ownership, and transparency. Users frequently surrender control of their personal data to centralized entities that profit from their information without adequate compensation or privacy safeguards. Moreover, these platforms are susceptible to single points of failure, which can compromise user data and service availability.
 
-- Many editor apps claim to be a canvas for productivity, but Dexis is one of the very few which allows you to put any building block on an edgeless canvas -- rich text, sticky notes, any embedded web pages, multi-view databases, linked pages, shapes and even slides. We have it all.
+The Dexis project was conceived to address these critical issues by leveraging the inherent benefits of blockchain technology, such as decentralization, immutability, and transparency, to create a new paradigm in social networking.**
 
-**Multimodal AI partner ready to kick in any work**
 
-- Write up professional work report? Turn an outline into expressive and presentable slides? Summary an article into a well-structured mindmap? Sorting your job plan and backlog for tasks? Or... draw and code prototype apps and web pages directly all with one prompt? With you, Dexis AI pushes your creativity to the edge of your imagination.
+## The Blast Blockchain: A Foundation for Innovation
 
-**Local-first & Real-time collaborative**
+The Dexis App is built on the Blast blockchain, known for its high scalability, low transaction fees, and robust security features. The Blast blockchain utilizes a proof-of-stake (PoS) consensus mechanism, which not only ensures faster transactions but also significantly reduces the environmental impact compared to traditional proof-of-work systems.
 
-- We love the idea of local-first that you always own your data on your disk, in spite of the cloud. Furthermore, AFFiNE supports real-time sync and collaborations on web and cross-platform clients.
-
-**Self-host & Shape your own Dexis**
-
-- You have the freedom to manage, self-host, fork and build your own Dexis. Plugin community and third-party blocks are coming soon. More tractions on Blocksuite.
-
-## Acknowledgement
-
-“We shape our tools and thereafter our tools shape us”. A lot of pioneers have inspired us along the way, e.g.:
-
-- Quip & Notion with their great concept of “everything is a block”
-- Trello with their Kanban
-- Airtable & Miro with their no-code programable datasheets
-- Miro & Whimiscal with their edgeless visual whiteboard
-- Remote & Capacities with their object-based tag system
-
-There is a large overlap of their atomic “building blocks” between these apps. They are not open source, nor do they have a plugin system like Vscode for contributors to customize. We want to have something that contains all the features we love and also goes one step even further.
-
-Thanks for checking us out, we appreciate your interest and sincerely hope that AFFiNE resonates with you! 🎵 Checking https://Dexis.app/ for more details ions.
+Utilizing this technology, the Dexis provides a platform where all transactions, interactions, and data exchanges are recorded on the blockchain, ensuring a transparent, secure, and user-centric experience.
 
 ## Contributing
 
