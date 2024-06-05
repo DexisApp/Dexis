@@ -91,7 +91,7 @@ If you have questions, you are welcome to contact us. One of the best places to 
 
 ## Contributors
 
-We would like to express our gratitude to all the individuals who have already contributed to Dexis! If you have any Dexis-related project, documentation, tool or template, please feel free to contribute it by submitting a pull request to our curated list on GitHub: [awesome-affine](https://github.com/Dexisai/Dexis).
+We would like to express our gratitude to all the individuals who have already contributed to Dexis! If you have any Dexis-related project, documentation, tool or template, please feel free to contribute it by submitting a pull request to our curated list on GitHub: [awesome-Dexis](https://github.com/Dexisai/Dexis).
 
 <a href="https://github.com/toeverything/affine/graphs/contributors">
   <img alt="contributors" src="https://opencollective.com/affine/contributors.svg?width=890&button=false" />
@@ -99,11 +99,11 @@ We would like to express our gratitude to all the individuals who have already c
 
 ## Self-Host
 
-Begin with Docker to deploy your own feature-rich, unrestricted version of AFFiNE. Our team is diligently updating to the latest version. For more information on how to self-host AFFiNE, please refer to our [documentation](https://Dexis.app/).
+Begin with Docker to deploy your own feature-rich, unrestricted version of Dexis. Our team is diligently updating to the latest version. For more information on how to self-host Dexis, please refer to our [documentation](https://Dexis.app/).
 
 ## Hiring
 
-Some amazing companies, including AFFiNE, are looking for developers! Are you interested in joining AFFiNE or its partners? Check out our Discord channel for some of the latest jobs available.
+Some amazing companies, including Dexis, are looking for developers! Are you interested in joining Dexis or its partners? Check out our Discord channel for some of the latest jobs available.
 
 ## Email
 
@@ -114,11 +114,11 @@ For questions and suggestions, please use this email [contact@Dexis.app]
 ### Codespaces
 
 From the GitHub repo main page, click the green "Code" button and select "Create codespace on master". This will open a new Codespace with the (supposedly auto-forked
-AFFiNE repo cloned, built, and ready to go.
+Dexis repo cloned, built, and ready to go.
 
 ### Local
 
-See [BUILDING.md] for instructions on how to build AFFiNE from source code.
+See [BUILDING.md] for instructions on how to build Dexis from source code.
 
 ## Contributing
 
