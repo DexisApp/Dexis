@@ -75,7 +75,7 @@ Calling all developers, testers, tech writers and more! Contributions of all typ
 
 **Before you start contributing, please make sure you have read and accepted our Contributor License Agreement. To indicate your agreement, simply edit this file and submit a pull request.**
 
-For **bug reports**, **feature requests** and other **suggestions** you can also [create a new issue](https://github.com/Dexisai/Dexis/issues/new/choose) and choose the most appropriate template for your feedback.
+For **bug reports**, **feature requests** and other **suggestions** you can also create a new issue and choose the most appropriate template for your feedback.
 
 
 
@@ -91,7 +91,7 @@ If you have questions, you are welcome to contact us. One of the best places to 
 
 ## Contributors
 
-We would like to express our gratitude to all the individuals who have already contributed to Dexis! If you have any Dexis-related project, documentation, tool or template, please feel free to contribute it by submitting a pull request to our curated list on GitHub: [awesome-Dexis](https://github.com/Dexisai/Dexis).
+We would like to express our gratitude to all the individuals who have already contributed to Dexis! If you have any Dexis-related project, documentation, tool or template, please feel free to contribute it by submitting a pull request to our curated list on GitHub: awesome-Dexis
 
 <a href="https://github.com/toeverything/affine/graphs/contributors">
   <img alt="contributors" src="https://opencollective.com/affine/contributors.svg?width=890&button=false" />
