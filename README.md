@@ -107,7 +107,7 @@ Some amazing companies, including Dexis, are looking for developers! Are you int
 
 ## Email
 
-For questions and suggestions, please use this email [contact@Dexis.app]
+For questions and suggestions, please use this email [contact@dexis.app]
 
 ## Building
 
