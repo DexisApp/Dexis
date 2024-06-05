@@ -45,7 +45,8 @@
 
 Star us, and you will receive all release notifications from GitHub without any delay!
 
-![](https://github.com/DexisApp/Dexis/.github/gdfgdaf31241.gif)
+
+<img src=".github/gdfgdaf31241.gif" style="width: 100%"/>
 
 ## What is Dexis
 
