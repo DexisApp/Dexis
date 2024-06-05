@@ -53,9 +53,9 @@ In the rapidly evolving digital age, the intersection of blockchain technology a
 
 ## The Need for Decentralization in Social Networking
 
-**Traditional social networks are predominantly centralized, which often leads to significant concerns over privacy, data ownership, and transparency. Users frequently surrender control of their personal data to centralized entities that profit from their information without adequate compensation or privacy safeguards. Moreover, these platforms are susceptible to single points of failure, which can compromise user data and service availability.
+Traditional social networks are predominantly centralized, which often leads to significant concerns over privacy, data ownership, and transparency. Users frequently surrender control of their personal data to centralized entities that profit from their information without adequate compensation or privacy safeguards. Moreover, these platforms are susceptible to single points of failure, which can compromise user data and service availability.
 
-The Dexis project was conceived to address these critical issues by leveraging the inherent benefits of blockchain technology, such as decentralization, immutability, and transparency, to create a new paradigm in social networking.**
+The Dexis project was conceived to address these critical issues by leveraging the inherent benefits of blockchain technology, such as decentralization, immutability, and transparency, to create a new paradigm in social networking.
 
 
 ## The Blast Blockchain: A Foundation for Innovation
