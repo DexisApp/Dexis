@@ -6,7 +6,7 @@
     <br>
 </h1>
 <a href="https://Dexis.app/download">
-    <img alt="affine logo" src="https://imgur.com/a/X6BTQHm.png" style="width: 100%">
+    <img alt="logo" src="https://imgur.com/a/X6BTQHm.jpg" style="width: 100%">
 </a>
 <br/>
 <p align="center">
