@@ -45,7 +45,7 @@
 
 Star us, and you will receive all release notifications from GitHub without any delay!
 
-<a href="https://ibb.co/q9zwHWm"><img src="https://i.ibb.co/VDd8FQM/gdfgdaf31241.gif" alt="gdfgdaf31241" border="0" /></a>
+[url=https://ibb.co/q9zwHWm][img]https://i.ibb.co/VDd8FQM/gdfgdaf31241.gif[/img][/url]
 <img src="https://i.ibb.co/zb1w37P/gdfgdaf31241.gif" style="width: 100%"/>
 
 ## What is Dexis
